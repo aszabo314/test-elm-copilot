@@ -1,0 +1,19 @@
+# Elm
+elm-stuff/
+
+# Generated files (elm.js is generated but should be in version control for GitHub Pages)
+# elm.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+/tmp/
